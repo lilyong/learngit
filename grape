@@ -1,0 +1,99 @@
+<html><head>
+   <meta http-equiv="Content-Type" content="text/html" ;charest="utf-8&quot;">
+   <link rel="stylesheet" type="text/css" href="mystyle.css">
+                                                            
+    <style>#returnA
+{	
+  padding-left:2%;
+  padding-top:4%;
+  width:15%;
+}
+                                                            #bigone
+{
+  width:29%;
+  padding-top:10%;
+  padding-left:33%;
+}
+
+#middle
+{ font-size:50px;
+ font-family: "HiraginoSansGB";
+ line-height: 1.8;
+ padding-top:16%; 
+ position:aboslute;
+ color:#FAFAFA;
+}
+#head
+{ 
+  width:15%;
+  padding-top:25%;
+  padding-left:20%;
+  padding-bottom:0;
+}
+#smallone
+{
+  position:absolute;
+  width:15%;
+  padding-top:25%;
+  padding-left:25%;   /*这个时候是是以head-right为基准*/
+  padding-bottom:0;
+}
+#circle 
+{
+  position:absolute;
+  width:17%;
+  padding-top:25%;
+  padding-left:25%;
+  padding-bottom:0;
+  z-index:-1;
+      }
+#contact1
+{ 
+ line-height:200%;
+  padding-left:15%;
+  font-size:50px;
+  color:#FAFAFA;
+  font-family: "HiraginoSansGB";
+    
+}
+
+#contact2
+{ 
+  line-height:200%;
+  padding-left:18%;
+  font-size:50px;
+  font-family: "HiraginoSansGB";
+  color:#FAFAFA;
+}
+      .all
+	  {
+ 		position:absolute;
+	    z-index:1;
+        width:90%;
+        padding-bottom:69%;
+        margin-left:5%;
+        background-color:#4DD0E1;
+      }
+
+}
+    </style>
+                                                            
+  </head>
+  <body>
+
+      <div class="all">
+  <div><img id="returnA" src="http://pltt.ybyte.org:1080/liuyong/task2/images/return.png"></div>  
+  <div><img id="bigone" src="http://pltt.ybyte.org:1080/liuyong/task2/images/bigone.png"></div>
+<div id="middle">葡萄藤轻游戏专注于桌游领域，提供在线杀人游戏，捉鬼，炸狼堡等多种聚会游戏，以及线下聚会桌游道具。</div>   
+        <div>     
+			 <img id="head" src="http://pltt.ybyte.org:1080/liuyong/task2/images/head.png">  
+			  <img id="smallone" src="http://pltt.ybyte.org:1080/liuyong/task2/images/smallone.png">
+			  <img id="circle" src="http://pltt.ybyte.org:1080/liuyong/realCircle.png">
+		</div>
+        	<span id="contact1">2905609033</span>
+            <span id="contact2">BJPTTeng</span>      
+			
+</div>
+ 
+  
+</body></html>
